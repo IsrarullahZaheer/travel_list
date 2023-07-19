@@ -1,3 +1,4 @@
+![alt text](https://github.com/IsrarullahZaheer/travel_list/blob/f327475af32c08cac2938158260bb057dee27c12/travel_list_app_screenshot.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
